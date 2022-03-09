@@ -1,7 +1,12 @@
 git rebase master
 
 --
+<<<<<<< HEAD
 aaa
 bbb
 abc
 cba
+=======
+abc
+cba
+>>>>>>> d7aa2cb2aed703b4c5ad9539e8362db613ebe558
